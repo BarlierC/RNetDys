@@ -1,5 +1,9 @@
 # RNetDys
 
+:warning: **This repository contains the version of the method presented in my PhD thesis (University of Luxembourg): https://orbilu.uni.lu/handle/10993/52240**
+
+:white_check_mark: **For the official and latest version of RNetDys please go to: https://gitlab.lcsb.uni.lu/CBG/RNetDys**
+
 RNetDys is a systematic pipeline to decipher cell (sub)type specific regulatory interactions impaired by disease-related SNPs. This pipeline relies on multi-OMICS data to provide mechanistic insights into impaired regulatory interactions due to SNPs by leveraging the information obtained from the GRN inference. 
 
 RNetDys contains two main parts composed of (1) the cell (sub)type specific GRN inference and (2) the capture of impaired regulatory interactions due to disease-related SNPs to gain regulatory mechanistic insights for the disease.
